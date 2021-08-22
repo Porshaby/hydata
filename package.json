@@ -1,0 +1,19 @@
+{
+  "name": "hydata",
+  "version": "1.0.0",
+  "description": "A stat viewing website made with <3 by Porsha using the hypixel api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quistty/hydata.git"
+  },
+  "author": "Porsha#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quistty/hydata/issues"
+  },
+  "homepage": "https://github.com/quistty/hydata#readme"
+}
