@@ -13,3 +13,5 @@ fetch(`https://api.hypixel.net/player?key=${apiKey}&name=${playerName}`)  // fet
         console.log(data)
     })
     .catch(error => console.log("Netorking error", error)) // this is just to catch any errors
+
+    //function please work on this
