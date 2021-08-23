@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/quistty/hydata/issues"
   },
-  "homepage": "https://github.com/quistty/hydata#readme"
+  "homepage": "https://github.com/quistty/hydata#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
