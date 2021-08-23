@@ -1,1 +1,0 @@
-const fetch = requre('node-fetch')

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/quistty/hydata#readme",
   "dependencies": {
+    "mojang": "^2.2.2",
     "node-fetch": "^2.6.1"
   }
 }
