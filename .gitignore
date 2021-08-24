@@ -1,4 +1,6 @@
 # the api key used to start the project
  apiKey.json
 
-
+{
+    "apiKey": "8a615050-3411-4623-91ad-aeb4ca0d80c4"
+}
