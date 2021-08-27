@@ -12,6 +12,6 @@ lerna-debug.log*
 # the api key used to connect to hypixel's network
 apiKey.json
 
-# dependancy directories
+# dependancy directories IT WORKS BOIS
 node_modules/
 
