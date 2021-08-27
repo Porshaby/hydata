@@ -1,5 +1,5 @@
 <h1 align="center">hydata</h1>
-Welcome to the homebase of Hydata, a website using [hypixel's api](http://api.hypixel.net/) where you can see your sweaty bedwars stats or even your friends minecraft skin, all on one page
+Welcome to the homebase of Hydata, a website using hypixel's api - http://api.hypixel.net/  where you can see your sweaty bedwars stats or even your friends minecraft skin, all on one page
 
 **Website: https://hydata.ca **
 
