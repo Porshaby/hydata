@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 - **Skin render**: <a href="https://github.com/bs-community/skinview3d/">Skinview3d</a> Blessing Skin.
 
 Made with <3 by Porsha and Functiondotexe.
-###### ps Porshaby and Quistty are the same people, known as Porsha or Porsha_boy
+###### P.S. Porshaby and Quistty are the same people, known as Porsha or Porsha_boy
