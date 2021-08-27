@@ -1,9 +1,6 @@
 <h1 align="center">hydata</h1>
-Welcome to the homebase of Hydata, a website using
-[hypixel's api](http://api.hypixel.net/) 
-where you can see your sweaty bedwars stats or even your friends minecraft skin, all on one page
 
-Welcome to the homebase of Hydata, a website using hypixel's [api](https://api.hypixel.net/) where you can view your sweaty bedwars stats or your friend's 10 winstreak in tnt tag, all on one page.
+Welcome to the homebase of Hydata, a website using [hypixel's api](https://api.hypixel.net/) where you can view your sweaty bedwars stats or your friend's 10 winstreak in tnt tag, all on one page.
 
 <h1 align="center"> Installation </h1>
 
@@ -24,10 +21,10 @@ Please make sure to update tests as appropriate.
 
 <h1 align="center"> Credits </h1>
 
-- **Animated Custom Weapons and Armors**: <a href="https://hypixel.net/threads/2138599/">FurfSky+</a> by Furf\_\_
-- **Additional Custom Textures**: <a href="https://hypixel.net/threads/2147652/">Vanilla+</a> by TBlazeWarriorT
-- **Default Textures**: <a href="https://www.minecraft.net/">Minecraft</a> by Mojang
+- **Animated Custom Weapons and Armors**: <a href="https://hypixel.net/threads/2138599/">FurfSky+</a> by Furf\_\_.
+- **Additional Custom Textures**: <a href="https://hypixel.net/threads/2147652/">Vanilla+</a> by TBlazeWarriorT.
+- **Default Textures**: <a href="https://www.minecraft.net/">Minecraft</a> by Mojang.
 - **Sites modified**: <a href="https://sky.shiiyu.moe">Skycrypt</a> by the Skycrypt team.
 - **Skin render**: <a href="https://github.com/bs-community/skinview3d/">Skinview3d</a> Blessing Skin.
 
-Made with <3 by Porsha and Functiondotexe
+Made with <3 by Porsha and Functiondotexe.
