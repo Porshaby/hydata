@@ -4,3 +4,6 @@
 
 # the api key used to connect to hypixel's network
 apiKey.json
+
+# node stuff
+node_modules/
