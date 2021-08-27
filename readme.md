@@ -10,7 +10,7 @@ Clone the project and run `npm i` to install the dependencies.
 
 Now create a file called `apiKey.json` and enter a valid Hypixel API Key. You can obtain one by joining mc.hypixel.net and writing `/api` in chat.
 
-Open the terminal window and cd to the public folder. Then run `http-server . -c0` then open your browser to `http://10.0.0.170:8080` happy coding!
+Open the terminal window and cd to the public folder. Then run `http-server . -c0` then open your browser to `http://10.0.0.170:8080`. Your now set to start coding
 
 <h1 align="center"> Information </h1>
 Pull requests are welcome. For major changes (such as how we reach hypixel's api), please open an issue first to discuss what you would like to change.
