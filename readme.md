@@ -1,11 +1,34 @@
-<h1 align="center">hydata</h1>
-Welcome to the homebase of Hydata, a website using hypixel's api - http://api.hypixel.net/  where you can see your sweaty bedwars stats or even your friends minecraft skin, all on one page
+# Foobar
 
-**Website: https://hydata.ca **
+Foobar is a Python library for dealing with word pluralization.
 
-<h1 align="center">Contributing</h1>
-If you would like to contribute to our code please follow the [steps](http://github.com/quistty/hydata/blob/master/CONTRIBUTING.md) carefully to ensure success. Or you can make an issue and we will try to resolve it. Thank you for your help!
+## Installation
 
-<!--  im sorry  -->
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-Made with <3 by Porsha and Functiondotexe
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
