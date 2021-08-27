@@ -41,9 +41,8 @@ then paste the following code in and replace `.` with your apiKey that you got f
 
 <h1 align="center">testing your code</h1>
 Open the terminal window and cd to the public folder. Then run `http-server . -c0` and open your browser to `http://10.0.0.170:8080` (I personally suggest using firefox as it allows you to edit on the browser which is much quicker) happy coding!
+
 ###### note closing the terminal window will close the local host so keep it open until your done coding. Also anyone on your wifi can access the website by going to `http://10.0.0.170:8080`. Lastly if you close the terminal and you want to view the code you just have to follow the steps above starting at `testing your code`
-
-
 
 <!--  im sorry  -->
 Made with <3 by Porsha and Functiondotexe 
