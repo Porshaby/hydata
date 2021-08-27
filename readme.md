@@ -1,4 +1,4 @@
-<h1 align="center">hydata</h1>
+<h1 align="center">Hydata</h1>
 
 Welcome to the homebase of Hydata, a website using [hypixel's api](https://api.hypixel.net/) where you can view your sweaty bedwars stats or your friend's 10 winstreak in tnt tag, all on one page.
 
@@ -28,3 +28,4 @@ Please make sure to update tests as appropriate.
 - **Skin render**: <a href="https://github.com/bs-community/skinview3d/">Skinview3d</a> Blessing Skin.
 
 Made with <3 by Porsha and Functiondotexe.
+###### ps Porshaby and Quistty are the same people, known as Porsha or Porsha_boy
