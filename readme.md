@@ -26,6 +26,7 @@ Please make sure to update tests as appropriate.
 - **Default Textures**: <a href="https://www.minecraft.net/">Minecraft</a> by Mojang.
 - **Sites modified**: <a href="https://sky.shiiyu.moe">Skycrypt</a> by the Skycrypt team.
 - **Skin render**: <a href="https://github.com/bs-community/skinview3d/">Skinview3d</a> Blessing Skin.
+- **Mojang api contact**: <a href="https://github.com/Electroid/mojang-api"> Mojang api contact </a> by Electroid
 
 Made with <3 by Porsha and Functiondotexe.
 ###### P.S. Porshaby and Quistty are the same people, known as Porsha or Porsha_boy
