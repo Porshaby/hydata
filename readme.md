@@ -2,7 +2,7 @@
 
 Welcome to the homebase of Hydata, a website using [hypixel's api](https://api.hypixel.net/) where you can view your sweaty bedwars stats or your friend's 10 winstreak in tnt tag, all on one page.
 
-<h1 align="center"> Installation </h1>
+<h1 align="center"> Editing </h1>
 
 #### A more in depth guide can be found in Contributing.md
 
