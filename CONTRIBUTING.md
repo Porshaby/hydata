@@ -12,8 +12,8 @@ If you would like to contribute to our code please follow the steps carefully to
 - Latest version of Firefox or Chrome (perferably Firefox as its easier to use)
 
 ##### the rest of the items listed aren't nessesary but are good for editing this code quickly
-Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-Intellisense: https://code.visualstudio.com/docs/editor/intellisense
+- Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- Intellisense: https://code.visualstudio.com/docs/editor/intellisense
 
 
 
